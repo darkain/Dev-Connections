@@ -17,3 +17,11 @@
 * DEV: [jerodsanto](https://dev.to/jerodsanto)
 * Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+
+## Name: Vincent Milum Jr
+* Place: Seattle, WA, USA
+* Job: [Software Engineer](https://gist.github.com/darkain/260d168d59b6e1561366349df635e6aa), [Technology Blogger](https://vincerants.com/)
+* GitHub: [darkain](https://github.com/darkain)
+* LinkedIn: [Vincent Milum Jr](https://www.linkedin.com/in/darkainmx/)
+* Twitter: [DarkainMX](https://twitter.com/DarkainMX)
+* Portfolio: [Vince's Open Source Contributions](https://gist.github.com/darkain/260d168d59b6e1561366349df635e6aa)
